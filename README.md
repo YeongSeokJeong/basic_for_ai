@@ -4,3 +4,6 @@
 
 1. 벡터와 행렬(vector and matrix)
 2. 놈과 유사도(norm and similarity)
+3. 선형 결합과 벡터 공간(linear combination and vector space)
+4. 역행렬(inverse matrix)
+
