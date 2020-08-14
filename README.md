@@ -7,3 +7,4 @@
 3. 선형 결합과 벡터 공간(linear combination and vector space)
 4. 역행렬(inverse matrix)
 5. 행렬분해(matrix decomposition)
+6. 확률과 통계 기초(probability and statistics basic)
