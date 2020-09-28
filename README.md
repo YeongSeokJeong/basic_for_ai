@@ -9,3 +9,4 @@
 5. 행렬분해(matrix decomposition)
 6. 확률과 통계 기초(probability and statistics basic)
 7. 음성인식 기초(basic of the speech recognition)
+8. 푸리에 변환(Fourier Transform)
